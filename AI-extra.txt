@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,us5.datadoghq.com
 DOMAIN,r.stripe.com
 DOMAIN-SUFFIX,us.sentry.io
 DOMAIN-SUFFIX,siftscience.com
+IP-CIDR,34.8.0.0/16,no-resolve
